@@ -12,14 +12,14 @@
             <h1 class="logo">AcroMemory</h1>
         </div>
         <div class="chat-box">
-            <h2 class="output-heading">Your acronym is:</h2> <!-- New heading added -->
+            <h2 class="output-heading">Your acronym is:</h2>
             <div class="chat-content" id="chat-content">
                 <!-- Output will be displayed here -->
             </div>
-            <div class="input-box">
+            <form class="input-box" action="/generate" method="post">
                 <input type="text" id="input-prompt" placeholder="Enter your prompt...">
-                <button onclick="generateAcronym()">Generate</button>
-            </div>
+                <button type="submit">Generate</button>
+            </form>
         </div>
     </div>
     <script src="script.js"></script>
