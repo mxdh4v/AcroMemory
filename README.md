@@ -58,10 +58,3 @@ To install and run AcroMemory, follow these steps:
 - **Media and Journalism**: Delivering concise and impactful content.
 
 
-## Contact
-
-For any questions or feedback, please open an issue or contact us at contact@example.com.
-
----
-
-Thank you for using AcroMemory! We hope it enhances your productivity and comprehension.
